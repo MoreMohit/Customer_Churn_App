@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+joblib
+scikit-learn
+matplotlib
+seaborn
+firebase-admin
+google-cloud-firestore
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-secret-manager
+streamlit-extras
+streamlit-lottie
+requests
